@@ -1,5 +1,5 @@
 <h1 align="center"> Portafolio </h1>
-<h4 align="center"> Laura Romero's website 👩🏻‍💻 </h4>
+<h4 align="center"> Sitio Web de Laura Romero 👩🏻‍💻 </h4>
 
 <p align="center"><img src="public/Pag-Inicial.png"/></p> 
 
